@@ -7,9 +7,11 @@ The primary difference between the official Sunscan and this one is the use of M
 
 Another difference is that I had previously bought a micrometer adjustable turntable in preparation for an attempt at the PVC spectro heligraph (https://github.com/terawats/PVC_Spectroheliograph) so I decided to incorporate that too. This also necessitated a different approach to how the defraction grating is adjusted. It is now ajusted using a single M3 machine screw accessed through the window behind the grating holder.
 
-The M39 75mm enlarger lenses I picked up off ebay for £20 the pair. One is a Hoya Super EL 75mm f1:4.5 the other is a Schneider - Kreuznach 75mm f1:4.0. Will they work? I don't know but half the fun is finding out.
+The M39 75mm enlarger lenses I picked up off ebay for £20 the pair. One is a Hoya Super EL 75mm f1:4.5 the other is a Schneider - Kreuznach 75mm f1:4.0. 
 
 The model is created in the Autodesk Fusion (Personal use) version. I will occassionally update the Fusion Archives folder with the latest archive. Print Files will be updated as and when the are updated. The other folders just contain images and animations from Fusion.
+
+Will this all work, I don't know but half the fun is finding out.
 
 ![Image of Sunscan Crompton Variant](Images/Full-assembly.jpg)
 
