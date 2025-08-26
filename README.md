@@ -1,5 +1,7 @@
 # Sunscan-Crompton-Variant
-Inspired by the Staros Projects Sunscan spectro heliograph my version uses second hand M39 75mm enlarger lenses and a stopped down 50mm objective.
+Inspired by the Staros Project's Sunscan spectro heliograph my version uses second hand M39 75mm enlarger lenses and a stopped down 50mm objective.
+
+Details of the official Sunscan project can be found ![here](https://www.sunscan.net/) and I strongly recommend you read through everything they have on there if you want to understand what I put up here. SUNSCAN © 2024 by Staros Projects.
 
 The primary difference between the official Sunscan and this one is the use of M39 75mm enlarger lenses for the collimator and the camera lenses. I also use a 50mm objective lens from a finderscope I had lying around. This is stopped down to 25mm.
 
