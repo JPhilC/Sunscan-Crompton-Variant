@@ -9,9 +9,9 @@ The M39 75mm enlarger lenses I picked up off ebay for £20 the pair. One is a Ho
 
 The model is created in the Autodesk Fusion (Personal use) version. I will occassionally update the Fusion Archives folder with the latest archive. Print Files will be updated as and when the are updated. The other folders just contain images and animations from Fusion.
 
-![Image of Sunscan Crompton Variant](images/Full-assembly.jpg)
+![Image of Sunscan Crompton Variant](images/Full-assembly.jpg?raw-true)
 
-![With the top removed](images/Top-off.jpg)
+![With the top removed](images/Top-off.jpg?raw=true)
 
 
 ## License
