@@ -7,7 +7,12 @@ Another difference is that I had previously bought a micrometer adjustable turnt
 
 The M39 75mm enlarger lenses I picked up off ebay for £20 the pair. One is a Hoya Super EL 75mm f1:4.5 the other is a Schneider - Kreuznach 75mm f1:4.0. Will they work? I don't know but half the fun is finding out.
 
-The model is created in the Autodesk Fusion (Personal use) version. 
+The model is created in the Autodesk Fusion (Personal use) version. I will occassionally update the Fusion Archives folder with the latest archive. Print Files will be updated as and when the are updated. The other folders just contain images and animations from Fusion.
+
+![Image of Sunscan Crompton Variant](images/Full assembly.jpg)
+
+![With the top removed](images/Top off.jpg)
+
 
 ## License
 
