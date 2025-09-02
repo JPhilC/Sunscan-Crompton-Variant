@@ -1,10 +1,4 @@
-The following is a list of the component print files.
-
-
-
-Generally if there is a thread involved anywhere I would have printed it with 0.16 mm layer height, everything else would be 0.2 mm layer height. I used Sunlu PETG Matte on a Bambu Labs A1 printer to print my SHG.
-
-| Object Name | Image Preview | Download Link |
+﻿| Object Name | Image Preview | Download Link |
 |-------------|---------------|----------------|
 | Camera Case Bottom | ![Camera Case Bottom](Component%20Images/Camera%20Case%20Bottom.png) | [Camera Case Bottom.3mf](Print%20Files/Camera%20Case%20Bottom.3mf) |
 | Camera Case Top | ![Camera Case Top](Component%20Images/Camera%20Case%20Top.png) | [Camera Case Top.3mf](Print%20Files/Camera%20Case%20Top.3mf) |
