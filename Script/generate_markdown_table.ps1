@@ -1,3 +1,6 @@
+# If it won't run, try changing the execution policy:
+#   Set-ExecutionPolicy RemoteSigned -Scope Process
+
 # Function to URL-encode spaces and brackets for Markdown
 function Encode-ForMarkdown($text) {
     $text -replace ' ', '%20' -replace '\(', '%28' -replace '\)', '%29'
