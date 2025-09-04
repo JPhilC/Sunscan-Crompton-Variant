@@ -9,7 +9,7 @@ The primary difference between the official Sunscan and this one are:
 - 50mm objective lens from a Skywatcher 9 x 50 finder scope
 - Use of an RS60-L Manual Trimming Station Platform Linear Stage Tuning Sliding Table φ60mm (as described on ebay) for the grating holder
 
-I had previously bought the turntable in preparation for an attempt at the PVC spectro heligraph (https://github.com/terawats/PVC_Spectroheliograph) so I decided to incorporate that too. This also necessitated a different approach to how the defraction grating is adjusted. It is now ajusted using a single M3 machine screw accessed through the window behind the grating holder. The actual turntable I bought is this one from ebay https://www.ebay.co.uk/itm/396515045796
+I had previously bought the turntable in preparation for an attempt at the PVC spectro heligraph (https://github.com/terawats/PVC_Spectroheliograph) so I decided to incorporate that too. This also necessitated a different approach to how the defraction grating is adjusted. It is now adjusted using a single M3 machine screw accessed through the infinity window behind the grating holder. The actual turntable I bought is this one from ebay https://www.ebay.co.uk/itm/396515045796
 
 The M39 enlarger lenses I picked up off ebay for around £20, I have three to choose from:
 
