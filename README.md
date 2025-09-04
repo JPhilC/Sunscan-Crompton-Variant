@@ -3,7 +3,7 @@ Inspired by the Staros Project's Sunscan spectro heliograph my version uses seco
 
 Details of the official Sunscan project can be found [here](https://www.sunscan.net/) and I strongly recommend you read through everything they have on there if you want to understand what I put up here. SUNSCAN © 2024 by Staros Projects.
 
-The primary difference between the official Sunscan and this one one are:
+The primary difference between the official Sunscan and this one are:
 
 - M39 enlarger lenses for the collimator and the camera lenses
 - 50mm objective lens from a Skywatcher 9 x 50 finder scope
