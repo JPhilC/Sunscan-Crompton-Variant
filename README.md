@@ -17,22 +17,54 @@ The M39 enlarger lenses I picked up off ebay for around £20, I have three to ch
 - Hoya Super EL 75mm f1:4.5 (used for the camera lens)
 - Perfex 90mm F4.5 Anastigmat (alternative camera lens near to Sunscan 100mm focal length)
 
-The model is created in the Autodesk Fusion (Personal use) version. Most of the print files are on here, the three that you will still need to get from the original Sunscan 3D prints is the two part mirror holder and the Raspberry Pi power button.
+The model is created in the Autodesk Fusion (Personal use) version. Most of the print files are on here, the three that you will still need to get from the original Sunscan 3D prints are the two part mirror holder and the Raspberry Pi power button. A complete list of the components used is in the [Components.md](Components.md) file along with a link to the Sunscan print file page.
 
-Fasteners and inserts are mostly M2, M3 or M4 either cap head socket screws or button head screws.
+Fasteners and inserts are mostly M2, M3 or M4 either cap head socket screws or button head screws. If you follow the [Sunscan assembly instructions](https://www.sunscan.net/build/1.-assembly-instructions/) you will get a good idea of what is needed. Instead of assembling their optical components you will need to screw the enlarger lenses into the M39 focus tubes and assembly the objective lens sub-assembly. There are three videos in the videos folder that show how the collator sub assembly, the objective lens sub assembly and the focuser sub assembly are put together.
 
-The electronics are all identical to the original Sunscan project, as is the software I use. You can follow the instructions on the Sunscan site to get that all set up and running.
+I used M2, M3 and M4 heat set inserts for the parts that need to be taken apart and put back together again. The RPi case and camera case use M2 inserts and screws where as on the Sunscan they use self tapping screws.
 
-I will occassionally update the Fusion Archives folder with the latest archive. Print Files will be updated as and when they are updated. The other folders just contain images and animations from Fusion.
+The electronics are all identical to the original Sunscan project, as is the software I use. You can follow the instructions on the Sunscan site for installing the Raspberry Pi OS and configuring and adjusting the device.
 
-Will this all work, I don't know but half the fun is finding out.
+
+Finally a big thank you to Staros Projects for creating the Sunscan project and making all the information available for free. 
+
+## Images
+
+### The completed Crompton variant looks like this:
 
 ![Image of Sunscan Crompton Variant](Images/Sunscan%20Crompton%20Variant.png)
 
+### Without the top cover.
+
 ![With the top removed](Images/Topless.png)
+
+### First light mounted on a Skywatcher Synscan AZ mount.
+
+![First Light](Images/FirstLight.jpg)
+
+### First images captured on a less than perfect day. Patchy clouds meant that I couldn't quite get the focus right or the exposure.
+
+#### Ha Image
+
+![Ha Image](Images/FirstHa.jpg)
+
+#### Artificial eclipse
+
+![Artificial eclipse](Images/ArtificialEclipse.jpg)]
+
+#### Screen shot showing Ha Line in mono
+
+![Screen shot showing Ha Line in mono](Images/HaLineMono.png)
+
+and in colour
+
+![Sceen shot showing Ha Line in colour](Images/HaLineRed.png)
+
 
 
 ## License
+
+The Sunscan licence page is [here](https://www.sunscan.net/the-sunscan-project/license).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 

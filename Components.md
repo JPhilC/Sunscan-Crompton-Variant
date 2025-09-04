@@ -1,8 +1,8 @@
-The following is a list of the component print files.
+The following is a list of the component print files I used to make my version of the Sunscan spectro heliograph. In addition to these you will need the two part mirror holder and the Raspberry Pi power button from the original Sunscan project.
 
 Generally if there is a thread involved anywhere I print with 0.16 mm layer height, everything else would be 0.2 mm layer height. I used black Sunlu PETG Matte on a Bambu Labs A1 printer to print my SHG.
 
-| Object Name | Image Preview | Download Link |
+| Component Name | Image Preview | Download Link |
 |-------------|---------------|----------------|
 | Camera Case Bottom | ![Camera Case Bottom](Component%20Images/Camera%20Case%20Bottom.png) | [Download Camera Case Bottom.3mf](https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/Camera%20Case%20Bottom.3mf) |
 | Camera Case Top | ![Camera Case Top](Component%20Images/Camera%20Case%20Top.png) | [Download Camera Case Top.3mf](https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/Camera%20Case%20Top.3mf) |
@@ -39,3 +39,5 @@ Generally if there is a thread involved anywhere I print with 0.16 mm layer heig
 | SynScan AZ Bracket | ![SynScan AZ Bracket](Component%20Images/SynScan%20AZ%20Bracket.png) | [Download SynScan AZ Bracket.3mf](https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/SynScan%20AZ%20Bracket.3mf) |
 | Turntable Platform | ![Turntable Platform](Component%20Images/Turntable%20Platform.png) | [Download Turntable Platform.3mf](https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/Turntable%20Platform.3mf) |
 | Vixen Bar | ![Vixen Bar](Component%20Images/Vixen%20Bar.png) | [Download Vixen Bar.3mf](https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/Vixen%20Bar.3mf) |
+
+You can find the Sunscan project 3D print files [here](https://www.sunscan.net/build/list-of-parts/3d-printing/).
