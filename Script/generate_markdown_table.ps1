@@ -1,5 +1,6 @@
 # If it won't run, try changing the execution policy:
 #   Set-ExecutionPolicy RemoteSigned -Scope Process
+#   .\Script\generate_markdown_table.ps1
 
 # Function to URL-encode spaces and brackets for Markdown
 function Encode-ForMarkdown($text) {
@@ -26,10 +27,10 @@ Get-ChildItem -Filter *.3mf -Name | ForEach-Object {
 
     # Construct paths
     $imagePath = "Component%20Images/$encodedBaseName.png"
-    $filePath = "Print%20Files/$encodedFileName"
-
+    ## $filePath = "Print%20Files/$encodedFileName"
+    $filePath = "https://github.com/JPhilC/Sunscan-Crompton-Variant/raw/main/Print%20Files/$encodedFileName"
     # Add row to table
-    $table += "| $baseName | ![$baseName]($imagePath) | [$name]($filePath) |"
+    $table += "| $baseName | ![$baseName]($imagePath) | [Download $name]($filePath) |"
 }
 
 # Output to Markdown file
