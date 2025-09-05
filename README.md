@@ -25,8 +25,12 @@ I used M2, M3 and M4 heat set inserts for the parts that need to be taken apart 
 
 The electronics are all identical to the original Sunscan project, as is the software I use. You can follow the instructions on the Sunscan site for installing the Raspberry Pi OS and configuring and adjusting the device.
 
+A complete list of the parts that I purchased is in the [Partslist.md](Partslist.md) file along with links to where I bought them and the cost. The total cost of my version was around £600 including a portion of the cost of the 3D printer and filament.
 
-Finally a big thank you to Staros Projects for creating the Sunscan project and making all the information available for free. 
+Finally a big thank you to [Staros Projects](https://staros-projects.org/en/index.html) for creating the Sunscan project and making all the information available for free. I would not have been able to build this without their work.
+
+|[![Staros Projects Logo](Images/StarosProjectsLogo.png)](https://staros-projects.org/en/sunscan.html)|[![Sunscan Logo](Images/SunscanLogo.png)](https://www.sunscan.net/)|
+|---|---|
 
 ## Images
 
